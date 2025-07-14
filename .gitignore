@@ -19,3 +19,8 @@ phpstan.neon
 ###< friendsofphp/php-cs-fixer ###
 
 .idea
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
